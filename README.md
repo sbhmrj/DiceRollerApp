@@ -5,3 +5,4 @@
 <h3>
   Dice Roller app, it gives a random value in between 1 to 6. 
 </h3>
+<img src="Screenshot_1.png" alt="Screenshot" width="500" height="600">
